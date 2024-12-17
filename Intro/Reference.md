@@ -8,3 +8,11 @@
 
 
 在unity里创建节点进行导入prefab和撒点[Houdini Engine: Directed Procedural Workflow in Houdini and Unity](https://80.lv/articles/houdini-engine-directed-procedural-workflow-in-houdini-and-unity/)之前是attribute里做的
+
+
+
+
+
+教特效的印度老哥：
+
+[Pre-Baked Destruction in Unreal Engine || Houdini Tutorial](https://www.youtube.com/watch?v=exreMc7CNiU&t=2s)
